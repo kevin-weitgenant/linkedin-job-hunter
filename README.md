@@ -11,7 +11,7 @@
 
 ## Demo
 
-https://vimeo.com/1154442119?fl=pl&fe=cm
+[https://vimeo.com/1154442119?fl=pl&fe=cm](https://github.com/user-attachments/assets/33fcfb40-011f-43fc-b107-f2043092a8b2)
 
 ---
 

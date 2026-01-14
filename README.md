@@ -11,21 +11,7 @@
 
 ## Demo
 
-<!--
-  To add your demo video:
-  1. Upload your MP4 file to this repo (e.g., in an assets/ folder)
-  2. Replace the video src below with your video path
-
-  Option A: If uploading to GitHub releases or assets
-  <video src="https://github.com/YOUR_USERNAME/YOUR_REPO/assets/VIDEO_ID/demo.mp4" width="100%" controls></video>
-
-  Option B: If storing in repo
-  <video src="assets/demo.mp4" width="100%" controls></video>
--->
-
-<video src="assets/demo.mp4" width="100%" controls>
-  Your browser does not support the video tag. <a href="assets/demo.mp4">Download the demo video</a>
-</video>
+https://vimeo.com/1154442119?fl=pl&fe=cm
 
 ---
 
